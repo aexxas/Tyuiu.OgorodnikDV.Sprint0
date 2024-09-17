@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.35229.62
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{BC3188D1-6175-47AF-B15A-2EBFF7661510}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.OgorodnikDV.Sprint0.Task0.V0", "Tyuiu.OgorodnikDV.Sprint0.Task0.V0\Tyuiu.OgorodnikDV.Sprint0.Task0.V0.csproj", "{6FA116A9-0616-44BD-AFEB-309B0C8BADC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{7C948DB8-8B91-493F-AFCC-9D1CD37403AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.OgorodnikDV.Sprint0.Task1.V0", "Tyuiu.OgorodnikDV.Sprint0.Task1.V0\Tyuiu.OgorodnikDV.Sprint0.Task1.V0.csproj", "{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{6FA116A9-0616-44BD-AFEB-309B0C8BADC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA116A9-0616-44BD-AFEB-309B0C8BADC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA116A9-0616-44BD-AFEB-309B0C8BADC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6FA116A9-0616-44BD-AFEB-309B0C8BADC3} = {BC3188D1-6175-47AF-B15A-2EBFF7661510}
+		{1DE3829D-9DAA-46BD-AC9F-52BF28EB1DFC} = {7C948DB8-8B91-493F-AFCC-9D1CD37403AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {873836CD-802D-4AF7-96A6-2BE267AB1C5B}

@@ -10,6 +10,7 @@ namespace Tyuiu.OgorodnikDV.Sprint0.Task0.V0
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World")
         }
     }
 }
